@@ -7,4 +7,7 @@ This is a repository for Vocal Synthesizing tool using AAE
 - [ ] Spectrograms for entire dataset - code running
 - [ ] Simple Conv AE on dataset
 - [ ] Adv AE on dataset
-
+- [X] Onset detection from query voice 
+- [X] Segment query voice into fragments
+- [ ] Retrieve audio fragments using network
+- [ ] Stitch back retrieved fragments
