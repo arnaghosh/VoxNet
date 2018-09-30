@@ -12,4 +12,5 @@ This is a repository for Vocal Synthesizing tool using AAE
 - [X] Onset detection from query voice 
 - [X] Segment query voice into fragments
 - [ ] Retrieve audio fragments using network
-- [ ] Stitch back retrieved fragments
+- [X] Stitch back retrieved fragments - code written
+- [ ] tSNE plots for feature vectors
