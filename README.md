@@ -3,9 +3,9 @@ This is a repository for Vocal Synthesizing tool using AAE
 
 ## To do list
 - [X] CQT code for calculating spectrograms
-- [X] Run Adv AE on MNIST - successfully run
-- [ ] Spectrograms for entire dataset - code running
-- [ ] Simple AE on dataset summed across time
+- [X] Run Adv AE on MNIST - successfully done
+- [X] Spectrograms for entire dataset - successfully done
+- [ ] Simple AE on dataset summed across time - running
 - [ ] Simple AdvAE on dataset summed across time
 - [ ] Simple Conv AE on dataset
 - [ ] Adv AE on dataset
