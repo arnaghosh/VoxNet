@@ -5,8 +5,8 @@ This is a repository for Vocal Synthesizing tool using AAE
 - [X] CQT code for calculating spectrograms
 - [X] Run Adv AE on MNIST - successfully done
 - [X] Spectrograms for entire dataset - successfully done
-- [ ] Simple AE on dataset summed across time - running
-- [ ] Simple AdvAE on dataset summed across time
+- [X] Simple AE on dataset summed across time - done but recons not excellent
+- [X] Simple AdvAE on dataset summed across time - done but losses not very low, classification acc not checked
 - [ ] Simple Conv AE on dataset
 - [ ] Adv AE on dataset
 - [X] Onset detection from query voice 
