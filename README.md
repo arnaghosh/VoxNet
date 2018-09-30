@@ -12,6 +12,6 @@ This is a repository for Vocal Synthesizing tool using AAE
 - ~~Adv AE on dataset - time-freq not fitting in memory~~
 - [X] Onset detection from query voice 
 - [X] Segment query voice into fragments
-- [ ] Retrieve audio fragments using network
+- [X] Retrieve audio fragments using network
 - [X] Stitch back retrieved fragments - code written
 - [ ] tSNE plots for feature vectors
