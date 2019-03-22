@@ -260,7 +260,7 @@ for step in tqdm(range(total_step)):
     query_vector = to_np(z_out)
     print(np.shape(query_vector),np.shape(lib))
     query_vals = np.sum(np.abs(lib-query_vector),axis=1)
-    best_matched_elem = np.argmax(query_vals)
+    best_matched_elem = np.argmin(query_vals)
     print(best_matched_elem)
 
 #save the Encoder
